@@ -8,116 +8,116 @@ Have you ever wanted the lyrics for *The Twelve Days of Christmas* to appear in 
 ### Output
 ```
 On the first day of Christmas
-My good friends brought to me
-A song and a Christmas tree
+My true love gave to me
+A partridge in a pear tree
 
 On the 2nd day of Christmas
-My good friends brought to me
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Two turtle doves
+And a partridge in a pear tree
 
 On the 3rd day of Christmas
-My good friends brought to me
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 4th day of Christmas
-My good friends brought to me
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 5th day of Christmas
-My good friends brought to me
-A shining star
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 6th day of Christmas
-My good friends brought to me
-Little silver bells
-A shining star
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Six geese a-laying
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 7th day of Christmas
-My good friends brought to me
-Candles a-glowing
-Little silver bells
-A shining star
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Seven swams a-swimming
+Six geese a-laying
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 8th day of Christmas
-My good friends brought to me
-Gold and silver tinsel
-Candles a-glowing
-Little silver bells
-A shining star
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Eight maids a-milking
+Seven swams a-swimming
+Six geese a-laying
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 9th day of Christmas
-My good friends brought to me
-A guardian angel
-Gold and silver tinsel
-Candles a-glowing
-Little silver bells
-A shining star
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Nine ladies dancing
+Eight maids a-milking
+Seven swams a-swimming
+Six geese a-laying
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 10th day of Christmas
-My good friends brought to me
-Some mistletoe
-A guardian angel
-Gold and silver tinsel
-Candles a-glowing
-Little silver bells
-A shining star
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Ten lords a-leaping
+Nine ladies dancing
+Eight maids a-milking
+Seven swams a-swimming
+Six geese a-laying
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 11th day of Christmas
-My good friends brought to me
-Gifts for one and all
-Some mistletoe
-A guardian angel
-Gold and silver tinsel
-Candles a-glowing
-Little silver bells
-A shining star
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Eleven pipers piping
+Ten lords a-leaping
+Nine ladies dancing
+Eight maids a-milking
+Seven swams a-swimming
+Six geese a-laying
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 
 On the 12th day of Christmas
-My good friends brought to me
-All their good wishes
-Gifts for one and all
-Some mistletoe
-A guardian angel
-Gold and silver tinsel
-Candles a-glowing
-Little silver bells
-A shining star
-Four colored lights
-Three boughs of holly
-Two candy canes
-And a song for the Christmas tree
+My true love gave to me
+Twelve drummers drumming
+Eleven pipers piping
+Ten lords a-leaping
+Nine ladies dancing
+Eight maids a-milking
+Seven swams a-swimming
+Six geese a-laying
+Five golden rings
+Four calling birds
+Three french hens
+Two turtle doves
+And a partridge in a pear tree
 ```
